@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.google.com/search?client=safari&rls=en&q=berkele+neuroscience&ie=UTF-8&oe=UTF-8'>Department of Neuroscience, UC Berkeley</a>. Phd Student
 
 profile:
   align: right
