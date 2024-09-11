@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /research/
+title: research
 description: My publications in reversed chronological order.
-nav: false
+nav: true
 nav_order: 2
 ---
 
