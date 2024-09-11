@@ -8,18 +8,20 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the [Neuroscience PhD program at UC Berkeley](https://neuroscience.berkeley.edu/home), working on Systems/Computational neuroscience. I am a Berkeley Doctoral Fellow and I am currently supported by the NIH T32 Training Grant.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining UC Berkeley, I earned a MS degree in Computer Science at [ETH Zurich](https://ethz.ch/en.html), with a major in Machine Intelligence and a minor in Theoretical Computer Science, where I developed my interest in Computational Neuroscience.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my Master's, I spent a semester working as a research intern in [IBM Research Zurich](https://research.ibm.com/labs/zurich), where I developed and analyized bio-inspired algorithms for deep neural networks.
+
+I wrote my Master's thesis in the [Kreiman Lab](https://klab.tch.harvard.edu) at Harvard, where I developed and analyzed a biologically-inspired Hebbian attractor model of working memory, matching human behavioral data and neurophysiological properties. During this time I was also part of the 2023 [Brains, Minds and Machine Summer Course](https://cbmm.mit.edu/summer-school/2023).
