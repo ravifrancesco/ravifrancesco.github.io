@@ -23,4 +23,4 @@ Before joining UC Berkeley, I earned a MS degree in Computer Science at [ETH Zur
 
 During my Master's, I spent a semester working as a research intern in [IBM Research Zurich](https://research.ibm.com/labs/zurich), where I developed and analyized bio-inspired algorithms for deep neural networks.
 
-I wrote my Master's thesis in the [Kreiman Lab](https://klab.tch.harvard.edu) at Harvard, where I developed and analyzed a biologically-inspired Hebbian attractor model of working memory, matching human behavioral data and neurophysiological properties. During this time I was also part of the 2023 [Brains, Minds and Machine Summer Course](https://cbmm.mit.edu/summer-school/2023).
+I wrote my Master's thesis in the [Kreiman Lab](https://klab.tch.harvard.edu) at Harvard, where I developed and analyzed a biologically-inspired Hebbian attractor model of working memory, matching human behavioral data and neurophysiological properties. While writing my thesis, I participated in the [2023 Brains, Minds and Machine Summer Course](https://cbmm.mit.edu/summer-school/2023).
