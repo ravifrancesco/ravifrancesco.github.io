@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://neuroscience.berkeley.edu/home'>Department of Neuroscience, UC Berkeley</a>. Phd Student
+subtitle: Neuroscience PhD Student | <a href='https://neuroscience.berkeley.edu/home'>UC Berkeley</a>
 
 profile:
   align: right
