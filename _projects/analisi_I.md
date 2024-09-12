@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analisi I
-description: Appunti di Analisi I.
+description: Appunti di Analisi I
 img: assets/img/analisi_I.jpg
 importance: 2
 category: Lecture Notes
