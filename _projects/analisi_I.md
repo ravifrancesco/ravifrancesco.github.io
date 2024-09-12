@@ -22,11 +22,7 @@ related_publications: false
   </header>
 
   <article>
-    <!-- Content of your markdown page goes here -->
-  </article>
-</div>
-
-Appunti completi di Analisi Matematica I. Contengono teoria, dimostrazioni dei principali teoremi e delle principali formule e vari esempi.
+    Appunti completi di Analisi Matematica I. Contengono teoria, dimostrazioni dei principali teoremi e delle principali formule e vari esempi.
 
 Gli argomenti trattati sono:
 
@@ -144,7 +140,5 @@ Gli argomenti trattati sono:
         7.4.1. La serie esponenziale
         7.4.2. Le serie di funzioni trigonometriche elementari
         7.4.3. Serie di potenze
-
-
-
-{% endraw %}
+  </article>
+</div>
