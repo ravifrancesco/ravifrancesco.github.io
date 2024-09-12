@@ -15,7 +15,7 @@
   "education": [
     {
       "institution": "University of California Berkeley",
-      "location": "Berkeley, CA, United States",
+      "location": "Berkeley, CA",
       "url": "https://neuroscience.berkeley.edu/home",
       "area": "Neuroscience",
       "studyType": "PhD Student",
@@ -24,7 +24,7 @@
     },
     {
       "institution": "Harvard Medical School, Boston Children's Hospital",
-      "location": "Boston, MA, United States",
+      "location": "Boston, MA",
       "url": "https://klab.tch.harvard.edu",
       "area": "Neuroscience",
       "studyType": "Master Thesis",
