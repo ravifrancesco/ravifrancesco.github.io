@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: Some material I prepared for courses/general knowledge (some are in italian)
+description: Some material I prepared for courses/general knowledge (part of it is in italian).
 nav: true
 nav_order: 3
 horizontal: false
