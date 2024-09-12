@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Appunti Analisi I
-description: Appunti completi di Analisi Matematica I.
+title: Analisi I
+description: Appunti di Analisi I.
 img: assets/img/analisi_I.png
 importance: 1
 category: Lecture Notes
@@ -20,9 +20,9 @@ related_publications: false
     ></a>
     </h1>
   </header>
+</div>
 
-  <article>
-    Appunti completi di Analisi Matematica I. Contengono teoria, dimostrazioni dei principali teoremi e delle principali formule e vari esempi.
+Appunti completi di Analisi Matematica I. Contengono teoria, dimostrazioni dei principali teoremi e delle principali formule e vari esempi.
 
 Gli argomenti trattati sono:
 
@@ -140,5 +140,3 @@ Gli argomenti trattati sono:
         7.4.1. La serie esponenziale
         7.4.2. Le serie di funzioni trigonometriche elementari
         7.4.3. Serie di potenze
-  </article>
-</div>
