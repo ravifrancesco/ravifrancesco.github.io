@@ -11,16 +11,13 @@ related_publications: false
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
-      {{ page.title }}
-      {% if page.cv_pdf %}
-        <a
-          href="{{ analisi_I.pdf | prepend: 'assets/pdf/' | relative_url}}"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="float-right"
-          ><i class="fa-solid fa-file-pdf"></i
-        ></a>
-      {% endif %}
+    <a
+        href="{{ analisi_I.pdf | prepend: 'assets/pdf/' | relative_url}}"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="float-right"
+        ><i class="fa-solid fa-file-pdf"></i
+    ></a>
     </h1>
   </header>
 
