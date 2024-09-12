@@ -8,7 +8,7 @@ category: Lecture Notes
 related_publications: false
 ---
 
-Appunti completi del corso di Analisi Matematica I del Politecnico di Milano (Anno Scolastio 2018-2019, Prof. Ettore Lanzarone). Contengono teoria, dimostrazioni dei principali teoremi e delle principali formule e vari esempi.
+Appunti completi del corso di Analisi Matematica I del Politecnico di Milano (Anno Scolastio 2018-2019, Prof. Ettore Lanzarone). Contengono teoria, dimostrazioni dei principali teoremi e delle principali formule e vari esempi. [Clicca qui per scaricare!](https://ravifrancesco.github.io/assets/pdf/analisi_I.pdf)
 
 <iframe src="https://ravifrancesco.github.io/assets/pdf/analisi_I.pdf" width="100%" height="1200px">
   This browser does not support PDFs. Please download the PDF to view it: 
