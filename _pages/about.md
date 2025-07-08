@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Neuroscience PhD Student</p>
-    <p><a href='https://adesnik.berkeley.edu'>Adesnik Lab</a></p>
+    <p>Neuroscience PhD Student,</p>
+    <p><a href='https://adesnik.berkeley.edu'>Adesnik Lab,</a></p>
     <p><a href='https://neuroscience.berkeley.edu/home'>UC Berkeley</a></p>
 
 news: true # includes a list of news items
