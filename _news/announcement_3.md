@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my PhD in [UC Berkeley Neuroscience Department](https://neuroscience.berkeley.edu/home)!
+I started my PhD in the [UC Berkeley Neuroscience Department](https://neuroscience.berkeley.edu/home)!

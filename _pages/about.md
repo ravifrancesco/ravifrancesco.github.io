@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Neuroscience PhD Student</p>
+    <p><a href='https://adesnik.berkeley.edu'>Adesnik Lab</a></p>
     <p><a href='https://neuroscience.berkeley.edu/home'>UC Berkeley</a></p>
 
 news: true # includes a list of news items
@@ -17,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the [Neuroscience PhD program at UC Berkeley](https://neuroscience.berkeley.edu/home), working on Systems/Computational neuroscience. I am a Berkeley Doctoral Fellow and I am currently supported by the NIH T32 Training Grant.
+I am a first year PhD student in the [Adesnik Lab](https://adesnik.berkeley.edu) at [UC Berkeley](https://neuroscience.berkeley.edu/home), studying the neural circuits and computations underlying active inference in the visual cortex. I am a Berkeley Doctoral Fellow and I am currently supported by the NIH T32 Training Grant.
 
 Before joining UC Berkeley, I earned a MS degree in Computer Science at [ETH Zurich](https://ethz.ch/en.html), with a major in Machine Intelligence and a minor in Theoretical Computer Science, where I developed my interest in Computational Neuroscience.
 
